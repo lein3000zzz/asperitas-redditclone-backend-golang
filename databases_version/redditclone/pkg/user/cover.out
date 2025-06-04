@@ -1,0 +1,18 @@
+mode: set
+redditclone/pkg/user/repo_mysql.go:21.46,23.2 1 1
+redditclone/pkg/user/repo_mysql.go:25.80,30.16 3 1
+redditclone/pkg/user/repo_mysql.go:30.16,32.3 1 1
+redditclone/pkg/user/repo_mysql.go:34.2,34.31 1 1
+redditclone/pkg/user/repo_mysql.go:34.31,36.3 1 1
+redditclone/pkg/user/repo_mysql.go:37.2,37.19 1 1
+redditclone/pkg/user/repo_mysql.go:40.79,48.16 2 1
+redditclone/pkg/user/repo_mysql.go:48.16,50.3 1 1
+redditclone/pkg/user/repo_mysql.go:52.2,52.12 1 1
+redditclone/pkg/user/repo_mysql.go:52.12,54.3 1 1
+redditclone/pkg/user/repo_mysql.go:56.2,64.16 3 1
+redditclone/pkg/user/repo_mysql.go:64.16,66.3 1 1
+redditclone/pkg/user/repo_mysql.go:67.2,67.18 1 1
+redditclone/pkg/user/repo_mysql.go:70.75,73.16 3 1
+redditclone/pkg/user/repo_mysql.go:73.16,75.3 1 1
+redditclone/pkg/user/repo_mysql.go:76.2,76.24 1 1
+redditclone/pkg/user/repo_mysql.go:79.65,89.2 2 0
